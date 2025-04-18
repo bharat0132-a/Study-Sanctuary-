@@ -1,0 +1,39 @@
+
+#home2 {
+    margin-left: 4%;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+#Abt1 {
+    margin-left: 5%;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: underline;
+}
+#dwd1 {
+    margin-left: 5%;
+   color: black;
+   font-weight: bold;
+   font-size: 18px;
+   
+}
+#bodycontent{
+    background-color: rgba(235, 235, 235, 0.979);
+}
+
+#abts {
+    font-size: 75px;
+    font-weight: 300;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 80px;
+    color: rgba(49, 47, 47, 0.852);
+}
+#abts1 {
+    text-align: left;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: scroll;
+}

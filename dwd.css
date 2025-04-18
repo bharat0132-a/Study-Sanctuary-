@@ -1,0 +1,23 @@
+
+#home3 {
+    margin-left: 4%;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+#Abt2 {
+    margin-left: 5%;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+#dwd2 {
+    margin-left: 5%;
+   color: black;
+   font-weight: bold;
+   font-size: 18px;
+   text-decoration: underline;
+}
+body{
+    overflow: hidden;
+}
